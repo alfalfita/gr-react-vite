@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: 'https://alfalfita.github.io/',
+  base: 'https://alfalfita.github.io/gr-react-vite/',
   plugins: [react()],
 })
